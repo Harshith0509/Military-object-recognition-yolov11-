@@ -1,0 +1,12 @@
+names:
+- Artilary
+- Missile
+- Radar
+- M. Rocket Launcher
+- Soldier
+- Tank
+- Vehicle
+nc: 7
+test: /Users/harshith/Desktop/Object detection/KIIT-MiTA/test/images
+train: /Users/harshith/Desktop/Object detection/KIIT-MiTA/train/images
+val: /Users/harshith/Desktop/Object detection/KIIT-MiTA/valid/images
