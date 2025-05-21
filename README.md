@@ -1,1 +1,1 @@
-# Military-object-recognition-yolov11-
+# Military-object-recognition-yolov11
