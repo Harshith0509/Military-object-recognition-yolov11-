@@ -1,4 +1,4 @@
-
+#Military Object Detection using YoloV11
 YOLOv11 Military Object Detection – KIIT–MITA
 This repository contains a Jupyter Notebook implementation of a YOLOv11-based object detection pipeline, trained to detect and classify military objects such as vehicles, aircraft, ships, and equipment in images and videos.
 Developed as part of the KIIT–MITA collaboration, this project supports research in automated surveillance, defense technology, and situational awareness.
